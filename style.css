@@ -68,6 +68,7 @@ section {
     color: Yellow;
     font-size: 2em;
     font-weight: 600;
+    text-align: center;
 }
 
 .main h3 {
@@ -77,6 +78,17 @@ section {
     letter-spacing: 1px;
     margin-top: 10px;
     margin-bottom: 30px;
+    text-align: center;
+}
+
+.main h4 {
+    color: Yellow;
+    font-size: 1em;
+    font-weight: 500;
+    letter-spacing: 1px;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    text-align: center;
 }
 
 .main-btn {
