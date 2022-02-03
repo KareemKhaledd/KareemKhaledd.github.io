@@ -59,14 +59,14 @@ section {
 .main h2 {
     color: white;
     font-size: 1.4em;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 .main h2 span {
     display: inline-block;
     margin-top: 10px;
     color: Yellow;
-    font-size: 3em;
+    font-size: 2em;
     font-weight: 600;
 }
 
