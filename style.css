@@ -50,7 +50,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
-    justify-content: center;
+    text-align: center;
     background: url(images/background.jfif) no-repeat;
     background-size: cover;
     background-position: center;
@@ -102,6 +102,8 @@ section {
     margin-bottom: 40px;
     transition: 0.7s ease;
     text-align: center;
+    justify-content: center;
+
 }
 
 .main-btn:hover {
