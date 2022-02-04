@@ -127,16 +127,10 @@ section {
 }
 
 .content {
-    width: 100%;
-    min-height: 100vh;
     display: flex;
     justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
-    background: url(images/Bbackground.jfif) no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
 }
 
 .card {
