@@ -50,6 +50,7 @@ section {
     min-height: 100vh;
     display: flex;
     align-items: center;
+    text-align: center;
     background: url(images/background.jfif) no-repeat;
     background-size: cover;
     background-position: center;
@@ -68,7 +69,6 @@ section {
     color: Yellow;
     font-size: 2em;
     font-weight: 600;
-    text-align: center;
 }
 
 .main h3 {
@@ -78,7 +78,6 @@ section {
     letter-spacing: 1px;
     margin-top: 10px;
     margin-bottom: 30px;
-    text-align: center;
 }
 
 .main h4 {
@@ -88,7 +87,6 @@ section {
     letter-spacing: 1px;
     margin-top: 10px;
     margin-bottom: 30px;
-    text-align: center;
 }
 
 .main-btn {
@@ -103,6 +101,7 @@ section {
     border-radius: 15px;
     margin-bottom: 40px;
     transition: 0.7s ease;
+    text-align: center;
 }
 
 .main-btn:hover {
